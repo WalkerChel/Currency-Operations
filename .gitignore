@@ -1,0 +1,14 @@
+# Binaries, plugins, libs
+*.dll
+*.dylib
+*.exe
+*.exe~
+*.so
+
+# .env
+.database
+.DS_Store
+
+# Testing
+*.test
+*.tmp
